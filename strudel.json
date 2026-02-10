@@ -1,4 +1,4 @@
-python3 generate_strudel_samples_json.py --root . --base https://emma-b211/soundrepository398 --output strudel.json
+python generate_strudel_samples_json.py --root . --base https://emma-b211/soundrepository398 --output strudel.json
 
 
 
